@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, My name is Housain Alsafar
+- 👀 I'm intersted in machine vision and manufacturing. I also like seeing how AI can be applied to machine vision applications.
+- 🎓 Im currently an undergrad in computer engineering at SDSU.
+- I look forward to starting a career as a vision engineer after graduating.
